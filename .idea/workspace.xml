@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7cebead-6521-449c-a6eb-e226f97ce6d1" name="Changes" comment="python" />
+    <list default="true" id="a7cebead-6521-449c-a6eb-e226f97ce6d1" name="Changes" comment="python commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -197,7 +199,47 @@
       <option name="project" value="LOCAL" />
       <updated>1719472044870</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="python">
+      <option name="closed" value="true" />
+      <created>1720248102449</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720248102449</updated>
+    </task>
+    <task id="LOCAL-00004" summary="python commit">
+      <option name="closed" value="true" />
+      <created>1720248124308</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720248124308</updated>
+    </task>
+    <task id="LOCAL-00005" summary="python commit">
+      <option name="closed" value="true" />
+      <created>1720248174387</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720248174387</updated>
+    </task>
+    <task id="LOCAL-00006" summary="python commit">
+      <option name="closed" value="true" />
+      <created>1720248184469</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1720248184469</updated>
+    </task>
+    <task id="LOCAL-00007" summary="python commit">
+      <option name="closed" value="true" />
+      <created>1720248292815</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1720248292815</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,8 +266,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="basic python commit" />
     <MESSAGE value="python" />
-    <option name="LAST_COMMIT_MESSAGE" value="python" />
+    <MESSAGE value="python commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="python commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
